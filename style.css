@@ -52,6 +52,7 @@
 
 .menu_list a:hover {
     color: #000;
+    transition: .3s color ease-in-out;
 }
 
 
@@ -156,7 +157,7 @@ li:hover:after {
 .aparts_pick {
     background-color: #9b9a9b;
     height: 300px;
-    width: 34%;
+    width: 33.333%;
 }
 
 .aparts_img {
@@ -171,7 +172,7 @@ li:hover:after {
 
 .aparts_text {
     position: relative;
-    margin-left: 10px;
+    margin-left:20px;
     width: 60%;
     display: block;
     background-color: rgb(233, 233, 233);
