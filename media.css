@@ -97,7 +97,9 @@
     .main_info {
         width: 100%;
     }
-
+    .around_slide {
+        flex-direction: column;
+    }
     .aparts_pick {
         display: none;
     }

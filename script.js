@@ -86,10 +86,10 @@ var swiperhead = new Swiper('.swiper-head', {
 var swiperhead = new Swiper('.swiper_around', {
     observer: true,
     observeParents: true,
-   /*  autoplay: {
-        delay: 2500,
+    autoplay: {
+        delay: 10000,
         disableOnInteraction: false,
-    }, */
+    },
     pagination: {
         el: '.swiper-pagination_around',
         clickable: true,
