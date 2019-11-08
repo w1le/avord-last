@@ -116,12 +116,12 @@ h2 {
 
 
 ul {
-    margin-top: 50px;
+    margin-top: 60px;
     margin-left: 40px;
 }
 
 li {
-    display: block;
+    display: table;
     width: Auto;
     list-style-type: none;
     font-size: 17px;
