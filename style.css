@@ -361,3 +361,10 @@ li:hover:after {
     height: 100px;
     width: 12%;
 }
+
+footer {
+    height: 80px;
+    width: 100%;
+    background-color: #21b7ea;
+    margin-bottom: 10px;
+}
