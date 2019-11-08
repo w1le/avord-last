@@ -298,17 +298,11 @@ li:hover:after {
     left: -15px;
 }
 
-
-
-.around_container {
-    background-color: rgb(233, 233, 233);
-}
-
 .around_slide {
     display: flex;
     justify-content: space-between;
     height: 100%;
-    padding: 20px;
+   /*  padding: 20px; */
     background-color: rgb(233, 233, 233);
 }
 
