@@ -68,7 +68,8 @@
     .space_container {
         flex-direction: column;
     }
-
+    .aparts_title {padding-right: 0;
+    text-align: center;}
     .aparts_pick {
         width: 100%;
         text-align: center;
@@ -77,6 +78,9 @@
 
     .aparts_info {
         width: 100%;
+    }
+    .aparts_img_head{
+        width: auto;
     }
     .menu {
         flex-direction: column;
@@ -88,6 +92,7 @@
     .aparts_text {
         width: 100%;
         margin: 20px 0;
+        margin-top: 0;
     }
     .main_info {
         width: 100%;
