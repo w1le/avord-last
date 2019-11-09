@@ -172,7 +172,7 @@ li:hover:after {
 
 .aparts_text {
     position: relative;
-    margin-left:20px;
+    margin-left: 20px;
     width: 60%;
     display: block;
     background-color: rgb(233, 233, 233);
@@ -303,23 +303,30 @@ li:hover:after {
     display: flex;
     justify-content: space-between;
     height: 100%;
-   /*  padding: 20px; */
+    /*  padding: 20px; */
     background-color: rgb(233, 233, 233);
 }
 
 .around_text {
-    padding: 0 40px;
+    padding: 0 2vw;
+    width: 100%;
 
+}
+
+.around_img {
+    width: 100%;
 }
 
 .around_text_content {
     margin-top: 20px;
-    font-weight: 400;
+    font-weight: 300;
 }
+
 .around_text_title {
     margin-top: 30px;
     font-weight: 600;
 }
+
 .aparts_text {
     font-weight: 600;
     text-align: left;
