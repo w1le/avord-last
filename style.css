@@ -314,10 +314,11 @@ li:hover:after {
 
 .around_text_content {
     margin-top: 20px;
-    font-weight: 300;
+    font-weight: 400;
 }
 .around_text_title {
     margin-top: 30px;
+    font-weight: 600;
 }
 .aparts_text {
     font-weight: 600;
