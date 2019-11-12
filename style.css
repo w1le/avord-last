@@ -396,3 +396,10 @@ footer {
     text-align: center;
     vertical-align: middle;
 }
+footer {
+    
+    text-align: center;
+}
+
+footer a {padding-top: 14px;
+display: inline-block;}
