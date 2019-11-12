@@ -129,4 +129,9 @@
     margin-top: 10px;
     text-align: center;
 }
+.reviews_container {
+    flex-direction: column;
+    padding: 0;
+    margin-top: 40px;
+}
 }

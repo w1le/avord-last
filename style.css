@@ -377,3 +377,14 @@ footer {
     background-color: #21b7ea;
     margin-bottom: 10px;
 }
+
+.reviews_container {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 40px;
+    margin-top: 40px;
+}
+
+.reviews_title {
+    text-align: center;
+}
