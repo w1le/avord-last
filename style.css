@@ -379,12 +379,18 @@ footer {
 }
 
 .reviews_container {
+    flex-flow: wrap;
     display: flex;
     justify-content: space-between;
-    padding: 0 40px;
+    padding: 0 50px;
     margin-top: 40px;
 }
+.reviews_container img {
+    margin: 0 auto;
+  width: 320px;
+}
 
-.reviews_title {
+.reviews_title { 
     text-align: center;
+    vertical-align: middle;
 }
