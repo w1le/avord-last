@@ -90,10 +90,11 @@ var swiperhead = new Swiper('.swiper_around', {
         delay: 10000,
         disableOnInteraction: false,
     },
-    pagination: {
-        el: '.swiper-pagination_around',
-        clickable: true,
-    },
+    
+    navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+      },
 });
 
 //плавное появление страницы
